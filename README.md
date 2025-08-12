@@ -35,3 +35,15 @@ git add .
 ```bash
 git status
 ```
+
+## Realizar un commit
+
+```bash
+git commit -m "<Un mensaje descriptivo del cambio>"
+```
+
+## Comando para visualizar el historico de cambios
+
+```bash
+git log
+```
