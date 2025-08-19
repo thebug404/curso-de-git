@@ -6,6 +6,8 @@ Este proyecto contiene todo los detalles necesarios para saber git. En el cual s
 - Que es un commit
 - Que un rama
 
+- Este cambio lo hizo mercy 
+
 ## Inicializar un repositorio
 
 ```bash
