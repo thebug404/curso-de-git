@@ -59,3 +59,15 @@ git checkout -b <nombre de la rama>
 ```bash
 git merge <nombre de la rama>
 ```
+
+## Comando para hacer referencia a un repo remoto
+
+```bash
+git remote add origin <url del server>
+```
+
+## Comando para hacer push de los cambios
+
+```bash
+git push -u origin <nombre de la rama>
+```
