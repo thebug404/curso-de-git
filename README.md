@@ -53,3 +53,9 @@ git log
 ```bash
 git checkout -b <nombre de la rama>
 ```
+
+## Comando para hacer merge de una rama
+
+```bash
+git merge <nombre de la rama>
+```
