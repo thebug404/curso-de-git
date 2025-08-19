@@ -1,6 +1,6 @@
 # Curso de Git
 
-Este proyecto contiene todo los detalles necesarios para saber git. En el cual se ve los giuiente:
+Este proyecto contiene todo los detalles necesarios para saber git. En el cual se ve los siguientes:
 
 - Que un repo
 - Que es un commit
