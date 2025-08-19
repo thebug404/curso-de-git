@@ -71,3 +71,9 @@ git remote add origin <url del server>
 ```bash
 git push -u origin <nombre de la rama>
 ```
+
+## Comando para sincronizar cambios
+
+```bash
+git pull
+```
