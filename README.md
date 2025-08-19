@@ -47,3 +47,9 @@ git commit -m "<Un mensaje descriptivo del cambio>"
 ```bash
 git log
 ```
+
+## Comando para crear y posicionarse en la rama creada.
+
+```bash
+git checkout -b <nombre de la rama>
+```
