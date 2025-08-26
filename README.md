@@ -8,6 +8,7 @@ Este proyecto contiene todo los detalles necesarios para saber git. En el cual s
 
 ## Inicializar un repositorio
 
+Este comentario lo agrego Elder
 ```bash
 git init .
 ```
